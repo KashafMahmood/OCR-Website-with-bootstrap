@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(0.416 0.416)">
+    <g id="invisible_box" data-name="invisible box" transform="translate(-0.416 -0.416)">
+      <rect id="Rectangle_6510" data-name="Rectangle 6510" width="21" height="21" fill="none"/>
+    </g>
+    <g id="icons_Q2" data-name="icons Q2" transform="translate(1.666 1.684)">
+      <path id="Path_21184" data-name="Path 21184" d="M8.181,28.445a4.248,4.248,0,0,1-2.973-1.232,4.163,4.163,0,0,1,0-5.947l3.058-3.058a4.163,4.163,0,0,1,5.947,0A.85.85,0,0,1,13.024,19.4a2.549,2.549,0,0,0-3.568,0L6.4,22.456a2.523,2.523,0,1,0,3.568,3.568l1.911-2a.85.85,0,0,1,1.189,1.189l-1.911,2A4.248,4.248,0,0,1,8.181,28.445Z" transform="translate(-3.959 -11.454)"/>
+      <path id="Path_21185" data-name="Path 21185" d="M22.643,15.469a4.248,4.248,0,0,1-2.973-1.232.85.85,0,0,1,1.189-1.189,2.549,2.549,0,0,0,3.568,0L27.485,9.99a2.523,2.523,0,1,0-3.568-3.568l-1.911,2a.85.85,0,0,1-1.189-1.189l1.911-2a4.205,4.205,0,1,1,5.947,5.947l-3.058,3.058a4.248,4.248,0,0,1-2.974,1.231Z" transform="translate(-12.898 -4)"/>
+    </g>
+  </g>
+</svg>

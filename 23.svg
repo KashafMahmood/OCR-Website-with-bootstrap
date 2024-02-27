@@ -1,0 +1,19 @@
+<svg width="1950" height="452" viewBox="0 0 1950 452" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M-20 12C-20 6.47715 -15.5228 2 -10 2H2013.49C2019.02 2 2023.49 6.47715 2023.49 12V452H-20V12Z" fill="url(#paint0_linear)"/>
+<path opacity="0.2" d="M759 452C759 390.144 709.08 340 647.5 340C585.92 340 536 390.144 536 452" stroke="#00A8B4" stroke-width="2"/>
+<path opacity="0.2" d="M785 451C785 373.68 722.544 311 645.5 311C568.456 311 506 373.68 506 451" stroke="#00A8B4" stroke-width="2"/>
+<g opacity="0.2">
+<path d="M1544.21 449.759C1544.21 204.364 1716.79 5.90864 2021.18 50.0285" stroke="#00A8B4" stroke-width="2" stroke-linecap="round"/>
+<path d="M1585.82 449.819C1585.78 232.839 1738.59 43.4835 2023.4 82.5682" stroke="#00A8B4" stroke-width="2" stroke-linecap="round"/>
+</g>
+<g opacity="0.2">
+<path d="M471.95 3.82674C471.95 203.216 292.458 376.595 -19.9835 340.746" stroke="#00A8B4" stroke-width="2" stroke-linecap="round"/>
+<path d="M440.294 4.36684C440.332 180.669 272.431 333.937 -19.9 302.179" stroke="#00A8B4" stroke-width="2" stroke-linecap="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="1001.75" y1="-112.305" x2="992.141" y2="895.829" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EDFCFE"/>
+<stop offset="1" stop-color="#FCFEFE"/>
+</linearGradient>
+</defs>
+</svg>
